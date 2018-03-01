@@ -1,0 +1,141 @@
+------------------------------------------------------------
+
+ n: 104	dimBlock: 2	countOfThreads: 1
+
+Time: 123
+
+process: 0	time: 120	countOfTasks: 140608
+
+------------------------------------------------------------
+------------------------------------------------------------
+
+ n: 104	dimBlock: 2	countOfThreads: 2
+
+Time: 106
+
+process: 0	time: 99	countOfTasks: 70188
+process: 1	time: 99	countOfTasks: 70420
+
+------------------------------------------------------------
+------------------------------------------------------------
+
+ n: 104	dimBlock: 2	countOfThreads: 4
+
+Time: 143
+
+process: 0	time: 135	countOfTasks: 35023
+process: 1	time: 135	countOfTasks: 35482
+process: 2	time: 133	countOfTasks: 34851
+process: 3	time: 133	countOfTasks: 35252
+
+------------------------------------------------------------
+------------------------------------------------------------
+
+ n: 104	dimBlock: 2	countOfThreads: 8
+
+Time: 144
+
+process: 0	time: 137	countOfTasks: 17893
+process: 1	time: 135	countOfTasks: 17580
+process: 2	time: 135	countOfTasks: 17628
+process: 3	time: 133	countOfTasks: 17545
+process: 4	time: 132	countOfTasks: 17509
+process: 5	time: 130	countOfTasks: 17431
+process: 6	time: 128	countOfTasks: 17685
+process: 7	time: 127	countOfTasks: 17337
+
+------------------------------------------------------------
+------------------------------------------------------------
+
+ n: 104	dimBlock: 4	countOfThreads: 1
+
+Time: 26
+
+process: 0	time: 22	countOfTasks: 17576
+
+------------------------------------------------------------
+------------------------------------------------------------
+
+ n: 104	dimBlock: 4	countOfThreads: 2
+
+Time: 29
+
+process: 0	time: 23	countOfTasks: 8720
+process: 1	time: 22	countOfTasks: 8856
+
+------------------------------------------------------------
+------------------------------------------------------------
+
+ n: 104	dimBlock: 4	countOfThreads: 4
+
+Time: 39
+
+process: 0	time: 33	countOfTasks: 4512
+process: 1	time: 33	countOfTasks: 4403
+process: 2	time: 31	countOfTasks: 4385
+process: 3	time: 29	countOfTasks: 4276
+
+------------------------------------------------------------
+------------------------------------------------------------
+
+ n: 104	dimBlock: 4	countOfThreads: 8
+
+Time: 44
+
+process: 0	time: 37	countOfTasks: 2487
+process: 1	time: 36	countOfTasks: 2332
+process: 2	time: 34	countOfTasks: 2261
+process: 3	time: 32	countOfTasks: 2070
+process: 4	time: 31	countOfTasks: 2292
+process: 5	time: 28	countOfTasks: 2151
+process: 6	time: 28	countOfTasks: 1940
+process: 7	time: 26	countOfTasks: 2043
+
+------------------------------------------------------------
+------------------------------------------------------------
+
+ n: 104	dimBlock: 8	countOfThreads: 1
+
+Time: 14
+
+process: 0	time: 10	countOfTasks: 2197
+
+------------------------------------------------------------
+------------------------------------------------------------
+
+ n: 104	dimBlock: 8	countOfThreads: 2
+
+Time: 12
+
+process: 0	time: 7	countOfTasks: 1134
+process: 1	time: 7	countOfTasks: 1063
+
+------------------------------------------------------------
+------------------------------------------------------------
+
+ n: 104	dimBlock: 8	countOfThreads: 4
+
+Time: 17
+
+process: 0	time: 12	countOfTasks: 601
+process: 1	time: 11	countOfTasks: 568
+process: 2	time: 11	countOfTasks: 507
+process: 3	time: 8	countOfTasks: 521
+
+------------------------------------------------------------
+------------------------------------------------------------
+
+ n: 104	dimBlock: 8	countOfThreads: 8
+
+Time: 24
+
+process: 0	time: 16	countOfTasks: 385
+process: 1	time: 15	countOfTasks: 374
+process: 2	time: 14	countOfTasks: 310
+process: 3	time: 12	countOfTasks: 281
+process: 4	time: 11	countOfTasks: 237
+process: 5	time: 9	countOfTasks: 224
+process: 6	time: 6	countOfTasks: 192
+process: 7	time: 6	countOfTasks: 194
+
+------------------------------------------------------------

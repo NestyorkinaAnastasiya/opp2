@@ -1,0 +1,8 @@
+﻿  opp2.cpp
+opp2.cpp(57): warning C4101: sum: неиспользованная локальная переменная
+  Создание кода
+  2 of 110 functions ( 1.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  opp2.vcxproj -> C:\Users\Анастасия\source\repos\opp2\Release\opp2.exe

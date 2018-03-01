@@ -1,0 +1,142 @@
+------------------------------------------------------------
+
+ n: 504	dimBlock: 2	countOfThreads: 1
+
+Time: 12053
+
+process: 0	time: 12045	countOfTasks: 16003008
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+ n: 504	dimBlock: 2	countOfThreads: 2
+
+Time: 11597
+
+process: 0	time: 11587	countOfTasks: 7900935
+process: 1	time: 11587	countOfTasks: 8102073
+
+------------------------------------------------------------
+------------------------------------------------------------
+
+ n: 504	dimBlock: 2	countOfThreads: 4
+
+Time: 15369
+
+process: 0	time: 15359	countOfTasks: 4009376
+process: 1	time: 15356	countOfTasks: 4007606
+process: 2	time: 15355	countOfTasks: 3985820
+process: 3	time: 15353	countOfTasks: 4000206
+
+------------------------------------------------------------
+------------------------------------------------------------
+
+ n: 504	dimBlock: 2	countOfThreads: 8
+
+Time: 8926
+
+process: 0	time: 8916	countOfTasks: 2001606
+process: 1	time: 8916	countOfTasks: 2010722
+process: 2	time: 8912	countOfTasks: 2020187
+process: 3	time: 8911	countOfTasks: 1977149
+process: 4	time: 8911	countOfTasks: 1994276
+process: 5	time: 8909	countOfTasks: 2012146
+process: 6	time: 8906	countOfTasks: 2017809
+process: 7	time: 8906	countOfTasks: 1969113
+
+------------------------------------------------------------
+------------------------------------------------------------
+
+ n: 504	dimBlock: 4	countOfThreads: 1
+
+Time: 2855
+
+process: 0	time: 2848	countOfTasks: 2000376
+
+------------------------------------------------------------
+------------------------------------------------------------
+
+ n: 504	dimBlock: 4	countOfThreads: 2
+
+Time: 2535
+
+process: 0	time: 2528	countOfTasks: 1000603
+process: 1	time: 2526	countOfTasks: 999773
+
+------------------------------------------------------------
+------------------------------------------------------------
+
+ n: 504	dimBlock: 4	countOfThreads: 4
+
+Time: 3259
+
+process: 0	time: 3251	countOfTasks: 499642
+process: 1	time: 3250	countOfTasks: 499571
+process: 2	time: 3248	countOfTasks: 494022
+process: 3	time: 3247	countOfTasks: 507141
+
+------------------------------------------------------------
+------------------------------------------------------------
+
+ n: 504	dimBlock: 4	countOfThreads: 8
+
+Time: 3092
+
+process: 0	time: 3082	countOfTasks: 254553
+process: 1	time: 3080	countOfTasks: 247604
+process: 2	time: 3078	countOfTasks: 246257
+process: 3	time: 3075	countOfTasks: 252921
+process: 4	time: 3075	countOfTasks: 252503
+process: 5	time: 3071	countOfTasks: 247379
+process: 6	time: 3071	countOfTasks: 246660
+process: 7	time: 3070	countOfTasks: 252499
+
+------------------------------------------------------------
+------------------------------------------------------------
+
+ n: 504	dimBlock: 8	countOfThreads: 1
+
+Time: 1385
+
+process: 0	time: 1377	countOfTasks: 250047
+
+------------------------------------------------------------
+------------------------------------------------------------
+
+ n: 504	dimBlock: 8	countOfThreads: 2
+
+Time: 1026
+
+process: 0	time: 1017	countOfTasks: 124759
+process: 1	time: 1017	countOfTasks: 125288
+
+------------------------------------------------------------
+------------------------------------------------------------
+
+ n: 504	dimBlock: 8	countOfThreads: 4
+
+Time: 1236
+
+process: 0	time: 1228	countOfTasks: 62529
+process: 1	time: 1226	countOfTasks: 62219
+process: 2	time: 1223	countOfTasks: 61806
+process: 3	time: 1223	countOfTasks: 63493
+
+------------------------------------------------------------
+------------------------------------------------------------
+
+ n: 504	dimBlock: 8	countOfThreads: 8
+
+Time: 1388
+
+process: 0	time: 1379	countOfTasks: 31741
+process: 1	time: 1377	countOfTasks: 30979
+process: 2	time: 1375	countOfTasks: 31462
+process: 3	time: 1370	countOfTasks: 31124
+process: 4	time: 1366	countOfTasks: 31437
+process: 5	time: 1366	countOfTasks: 30783
+process: 6	time: 1366	countOfTasks: 31397
+process: 7	time: 1367	countOfTasks: 31124
+
+------------------------------------------------------------
